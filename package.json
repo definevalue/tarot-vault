@@ -22,7 +22,7 @@
     "bip39": "^3.0.3",
     "chai": "^4.3.4",
     "dotenv": "^10.0.0",
-    "ethereum-waffle": "^3.3.0",
+    "ethereum-waffle": "^4.0.7",
     "ethereumjs-abi": "^0.6.8",
     "ethereumjs-utils": "^5.2.5",
     "ethereumjs-wallet": "^1.0.1",
